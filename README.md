@@ -17,4 +17,4 @@
   5. Đỗ Ngọc Huấn - B19DCVT163
   6. Nguyễn Trần Tuấn Minh - B19DCVT255
   7. Đỗ Văn Hồng - B19DCVT162    
- 
+  8.Tạ Nhật Minh-B19DCVT257
