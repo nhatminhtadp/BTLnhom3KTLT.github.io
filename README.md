@@ -8,6 +8,11 @@
 ![image](https://user-images.githubusercontent.com/92570598/143463694-bdf76bdf-4c3e-438c-a36a-b803a9b08304.png)
 **Bước 2:**
 ![image](https://user-images.githubusercontent.com/92570598/143464103-c4238f35-4159-4877-870f-9f8188d2e9c2.png)
+**Bước 3:**
+![image](https://user-images.githubusercontent.com/92570598/143464865-9e7a827d-e9b2-42c4-9cd4-6373e6405725.png)
+**Bước 4:**
+![image](https://user-images.githubusercontent.com/92570598/143464888-62e51017-769a-4e76-aa60-81df95beeefd.png)
+
 
 
 
