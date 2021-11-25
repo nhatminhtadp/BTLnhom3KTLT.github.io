@@ -5,6 +5,8 @@
 
 # Hướng dẫn tải file lên github
 **Bước 1:**
+![image](https://user-images.githubusercontent.com/92570598/143463694-bdf76bdf-4c3e-438c-a36a-b803a9b08304.png)
+**Bước 2:**
 ![image](https://user-images.githubusercontent.com/92570598/143463193-894cc235-b1d3-411c-8a1b-c386fb5c777f.png)
 
 
