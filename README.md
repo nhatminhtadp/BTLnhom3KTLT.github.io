@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/92570598/143170774-016f7c44-8161-40ca-ba43-80088ebbd07a.png)
 
 # Hướng dẫn tải file lên github
-Bước 1:
+**Bước 1:**
 ![image](https://user-images.githubusercontent.com/92570598/143463193-894cc235-b1d3-411c-8a1b-c386fb5c777f.png)
 
 
