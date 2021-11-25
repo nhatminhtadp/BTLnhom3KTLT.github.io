@@ -6,8 +6,10 @@
 # Bấm vào đây để tải về nha
 ![image](https://user-images.githubusercontent.com/92570598/143170933-83283799-b0ae-45c0-bbab-b69d3251a288.png)
 
-# Bấm vào đây để tải file lên nha 1 trong 2 cách 
-![image](https://user-images.githubusercontent.com/92570598/143171129-9b646ac7-7da1-4b5f-abc8-d6248b6c31a0.png)
+# Hướng dẫn tải file lên github
+Bước 1:
+![image](https://user-images.githubusercontent.com/92570598/143463193-894cc235-b1d3-411c-8a1b-c386fb5c777f.png)
+
 
 # Thành viên nhóm :
   1. Võ Việt Hoàng - B19DCVT161
