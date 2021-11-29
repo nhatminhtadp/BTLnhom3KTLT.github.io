@@ -31,3 +31,4 @@
   12. Lương Ngọc Huy - B19DCVT175
   13. Vũ Khắc Phiêu - B19DCVT279
   14. Lê Thành Hưng - B19DCVT184
+  15. Trình Văn Lâm - B19DCVT217
