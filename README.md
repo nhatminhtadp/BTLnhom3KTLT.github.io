@@ -33,6 +33,7 @@
   14. Lê Thành Hưng - B19DCVT184
   15. Trình Văn Lâm - B19DCVT217
   16. Nguyễn Đình Minh - B19DCVT252
+  17. Phan Ngọc Khải - B19DCVT196
 
 # Link trang chủ :
 **https://hoangneeee.github.io/BTLnhom3KTLT/index.html**
