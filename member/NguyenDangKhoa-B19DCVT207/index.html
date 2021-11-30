@@ -1,0 +1,212 @@
+<!doctype html>
+<html>
+<head>
+    <title>Nguyễn Đăng Khoa Profile</title>
+	<link rel="stylesheet" href="./bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<section>
+		<!-- Header section  -->
+		<header>
+			<a href="/" class="logo">Profile</a>
+			<div class="toggle" onclick="toggleMenu()"></div>
+			<ul class="navigation">
+				<li><a href="/" style="--i:1;">Home</a></li>
+				<li><a href="#introduce" style="--i:2;">Introduce</a></li>
+				<li><a href="#hobby" style="--i:3;">Hobby</a></li>
+				<li><a href="#skill" style="--i:4;">Skill</a></li>
+				<li><a href="#education" style="--i:5;">Education</a></li>
+			</ul>
+		</header>
+
+		<!-- Content section -->
+		<div class="content">
+			<div class="content__header">
+				<div class="row content__header-item ">
+					<div class="box" style="--i:3;">
+						<div class="imgBx">
+							<img src="./images/image1.jpg">
+						</div>
+					</div>
+					<div class="box" style="--i:4;">
+						<div class="imgBx">
+							<img src="./images/image2.jpg">
+						</div>
+					</div>
+					<div class="box" style="--i:5;">
+						<div class="imgBx">
+							<img src="./images/image3.jpg">
+						</div>
+					</div>
+					<div class="box" style="--i:6;">
+						<div class="imgBx">
+							<img src="./images/image4.jpg">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content__body mt-35 container-fluid">
+				<div class="flex">
+					<div class="col-6">
+						<div id="introduce" class="row content__body-title">
+							Introduce
+						</div>
+						<ul class="content__body-list">
+							<li class="content__body-item">
+								<div class="title">Họ tên :</div>
+								<p class="desc">Nguyễn Đăng Khoa</p>
+							</li>
+							<li class="content__body-item">
+								<div class="title">Tuổi :</div>
+								<p class="desc">20</p>
+							</li>
+							<li class="content__body-item">
+								<div class="title">Nơi cư trú hiện tại :</div>
+								<p class="desc">Long Biên - Hà Nội</p>
+							</li>
+							<li class="content__body-item">
+								<div class="title">Làm việc tại :</div>
+								<p class="desc">Aloha Studio và Sổ Media</p>
+							</li>
+							<li class="content__body-item">
+								<div class="title">Học tại :</div>
+								<p class="desc">Học viện công nghệ Bưu chính viễn thông</p>
+							</li>
+						</ul>
+					</div>
+					<div class="col-6">
+						<div id="hobby" class="row content__body-title">
+							Hobbies
+						</div>
+						<div class="title">
+							Sở thích :
+						</div>
+						<p>
+							Chụp ảnh, nghe nhạc, đi du lịch; 
+						</p>
+						<div class="title">
+							Điểm mạnh :
+						</div>
+						<p>
+							Tự tin, năng động, giao tiếp tốt; 
+						</p>
+						<div class="title">
+							Điểm yếu :
+						</div>
+						<p>
+							Thiếu sự linh hoạt, thay đổi, đổi mới; 
+						</p>
+					</div>
+					
+				</div>
+				<div id="skill" class="mb-24px">
+					<div id="skill" class="row content__body-title">
+						Skill
+					</div>
+					<div class="title">
+						Microsoft
+					</div>
+					<div class="progress">
+						<div class="progress-bar bg-warning" role="progressbar" style="width: 60%;"
+							aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+					<div class="title">
+						Photoshop
+					</div>
+					<div class="progress">
+						<div class="progress-bar bg-danger" role="progressbar" style="width: 75%;"
+							aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+					<div class="title">
+						Photography
+					</div>
+					<div class="progress">
+						<div class="progress-bar bg-success" role="progressbar" style="width: 70%;"
+							aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+				</div>
+				<div id="education">
+					<div id="hobby" class="row content__body-title">
+						Education
+					</div>
+					<div class="row flex">
+						<ul class="timeline mt-4 pr-md-5">
+							<li>
+								<div class="title bg-red">2021 - Current</div>
+								<div class="details">
+									<h5>Học đại học</h5>
+									<small class="color-orange">Sinh viên năm 3</small>
+									<p>Có điểm thành phần GPA 3.5, tham gia hiến máu tình nguyện, ...</p>
+								</div>
+							</li>
+							<li>
+								<div class="title bg-red">2020</div>
+								<div class="details">
+									<h5>Học đại học</h5>
+									<small class="color-orange">Sinh viên năm 2</small>
+									<p>Có GPA 3.1, tham gia hỗ trợ chào tân, ngày tuyển dụng, ...</p>
+								</div>
+							</li>
+							<li>
+								<div class="title bg-red">2019</div>
+								<div class="details">
+									<h5>Học đại học</h5>
+									<small class="color-orange">Sinh viên năm 1</small>
+									<p>GPA 2.8, rớt môn học đầu đời</p>
+								</div>
+							</li>
+						</ul>
+						<ul class="timeline mt-4 pr-md-5">
+							<li>
+								<div class="title bg-red">2021 - Current</div>
+								<div class="details">
+									<h5>Aloha Studio và Sổ Media</h5>
+									<small class="color-orange">Sinh viên năm 3</small>
+									<p>Boss Sổ Media, chụp sự kiện, kỷ yếu toàn miền bắc,...</p>
+								</div>
+							</li>
+							<li>
+								<div class="title bg-red">2020</div>
+								<div class="details">
+									<h5>Làm việc tại Aloha Studio và Sổ Media</h5>
+									<small class="color-orange">Sinh viên năm 2</small>
+									<p>Boss Sổ Media, chụp sự kiện, kỷ yếu toàn miền bắc, ...</p>
+								</div>
+							</li>
+							<li>
+								<div class="title bg-red">2019</div>
+								<div class="details">
+									<h5>Làm việc tại Aloha Studio và Sổ Media</h5>
+									<small class="color-orange">Sinh viên năm 1</small>
+									<p>Phó chủ nhiệm Sổ Media, chụp kỷ yếu toàn miền bắc </p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Footer section -->
+		<div id="contact" class="footer">
+			<ul class="sci">
+				<li><a href="#" style="--i:9">Facebook</a></li>
+				<li><a href="#" style="--i:8">Tiktok</a></li>
+				<li><a href="#" style="--i:7">Instagram</a></li>
+			</ul>
+			<p class="copyrightText">©Nguyễn Đăng Khoa</p>
+		</div>
+	</section>
+	<!-- JavaScript Section -->
+	<script>
+		function toggleMenu(){
+			var menuToggle = document.querySelector('.toggle');
+			var navigation = document.querySelector('.navigation');
+			menuToggle.classList.toggle('active');
+			navigation.classList.toggle('active');
+	    }
+	</script>
+</body>
+</html>
+
