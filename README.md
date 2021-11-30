@@ -35,4 +35,4 @@
   16. Nguyễn Đình Minh - B19DCVT252
 
 # Link trang chủ :
-**https://github.com/hoangneeee/BTLnhom3KTLT/index.html**
+**https://hoangneeee.github.io/BTLnhom3KTLT/index.html**
